@@ -10,3 +10,12 @@
 
 현재 작성중인 기능
 #기본 GUI 레이아웃
+
+English Explanation
+
+This project is a serial monitor developed by lmkhkm. It was developed entirely for the needs of the developer himself, so there are still no versatility or features that the developer does not use!
+
+The program based on Python.
+
+Currently completed functions
+# Nothing
