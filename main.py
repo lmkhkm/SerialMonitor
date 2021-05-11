@@ -11,4 +11,5 @@ ser = serial.Serial(portName, baudRate, timeout=1)
 
 while True:
     print("R: ", ser.readline())
-    if 
+    if :
+        
